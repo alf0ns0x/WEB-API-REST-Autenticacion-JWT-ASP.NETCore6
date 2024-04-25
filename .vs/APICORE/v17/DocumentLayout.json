@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Program.cs",
+              "RelativeDocumentMoniker": "APICORE\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Program.cs",
+              "RelativeToolTip": "APICORE\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T02:45:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "APICORE\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "APICORE\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:27:38.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "APICORE\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Models\\Producto.cs",
+              "RelativeToolTip": "APICORE\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:24:21.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\appsettings.json",
+              "RelativeDocumentMoniker": "APICORE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\appsettings.json",
+              "RelativeToolTip": "APICORE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T22:19:04.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
