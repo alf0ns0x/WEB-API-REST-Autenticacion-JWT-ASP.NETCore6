@@ -1,4 +1,5 @@
 ﻿using APICORE.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using System.Data;
@@ -8,6 +9,7 @@ namespace APICORE.Controllers
 {
     [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class ProductoController : ControllerBase
     {

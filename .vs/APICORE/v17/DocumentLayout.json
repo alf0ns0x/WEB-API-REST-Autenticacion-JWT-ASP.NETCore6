@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\api-rest-crud-asp.netcore6\\apicore\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\api-rest-crud-asp.netcore6\\apicore\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\api-rest-crud-asp.netcore6\\apicore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\api-rest-crud-asp.netcore6\\apicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\nueva carpeta\\apicore\\apicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|c:\\users\\administrador\\desktop\\api-rest-crud-asp.netcore6\\apicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FCB64037-5FB7-488E-B8CD-F7E23DF729C8}|APICORE\\APICORE.csproj|solutionrelative:apicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "APICORE\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "APICORE\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:41:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "APICORE\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "APICORE\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:39:05.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "APICORE\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Models\\Usuario.cs",
+              "RelativeToolTip": "APICORE\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:37:50.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Program.cs",
               "RelativeDocumentMoniker": "APICORE\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\Program.cs",
               "RelativeToolTip": "APICORE\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T02:45:32.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "APICORE\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "APICORE\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:27:38.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "APICORE\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\Models\\Producto.cs",
-              "RelativeToolTip": "APICORE\\Models\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T22:24:21.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\appsettings.json",
               "RelativeDocumentMoniker": "APICORE\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\appsettings.json",
               "RelativeToolTip": "APICORE\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-24T22:19:04.126Z",
               "EditorCaption": ""

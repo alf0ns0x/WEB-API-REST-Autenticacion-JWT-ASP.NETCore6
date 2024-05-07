@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\APICORE.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\APICORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\APICORE.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\APICORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\APICORE.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\APICORE.csproj",
         "projectName": "APICORE",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\APICORE.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\APICORE.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\Nueva carpeta\\APICORE\\APICORE\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\API-REST-CRUD-ASP.NETCore6\\APICORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -52,6 +56,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
             }
           },
           "imports": [
